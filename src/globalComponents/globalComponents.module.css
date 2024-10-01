@@ -1,0 +1,18 @@
+.header {
+  height: 7vh;
+  background-color: var(--clr-secondary);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 3vw;
+  font-size: 20px;
+}
+
+.navbarList {
+  display: flex;
+  list-style-type: none;
+}
+
+.navbarList li {
+  padding-left: 20px;
+}
