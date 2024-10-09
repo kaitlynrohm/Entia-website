@@ -10,11 +10,11 @@
 }
 
 .banner {
-  background-color: var(--clr-primary);
+  background-color: color-mix(in srgb, var(--clr-primary), #0000 15%);
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 70%;
+  width: 50%;
   height: 40%;
 }
 
