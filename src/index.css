@@ -1,7 +1,7 @@
 :root {
   /* Colours */
-  --clr-light: #fcfbfe;
-  --clr-dark: #040109;
+  --clr-bg: #fcfbfe;
+  --clr-text: #040109;
   --clr-primary: #7155be;
   --clr-secondary: #eb7fe7;
   --clr-accent: #f85d49;
@@ -12,4 +12,5 @@
   padding: 0;
   margin: 0;
   font-family: "Lora", serif;
+  color: var(--clr-text);
 }
