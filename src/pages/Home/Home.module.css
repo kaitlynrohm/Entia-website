@@ -1,0 +1,32 @@
+.headingDiv {
+  background: url("/vincentiu-solomon-ln5drpv_ImI-unsplash.jpg") no-repeat
+    bottom;
+  background-size: cover;
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner {
+  background-color: var(--clr-primary);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  height: 40%;
+}
+
+.credit {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 10px;
+  margin-right: 1vw;
+  right: 0;
+  height: 3vh;
+  background-color: var(--clr-light);
+  top: 43vh;
+}
