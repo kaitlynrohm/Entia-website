@@ -16,3 +16,13 @@
 .navbarList li {
   padding-left: 20px;
 }
+
+.link {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+.link:hover {
+  color: var(--clr-primary);
+}
